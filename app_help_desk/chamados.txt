@@ -1,0 +1,6 @@
+4#Erro ao conectar#Rede#Rede indisponível no momento#2
+4#Cartucho#Impressora#Impressora sem tinta#2
+2#Notebook#Hardware#Notebook não liga a câmera#2
+2#Novo computador#Hardware#Solicito um novo computador para a sala 9#2
+4#Mouse quebrado#Hardware#O mouse parou de funcionar#2
+2#Erro ao conectar o banco de dados#Rede#Banco de dados na acessando#2
